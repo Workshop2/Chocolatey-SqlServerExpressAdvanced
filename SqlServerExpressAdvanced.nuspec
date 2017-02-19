@@ -10,7 +10,7 @@
     <projectUrl>http://github.com/workshop2/Chocolatey-SqlServerExpressAdvanced</projectUrl>
 	  <iconUrl>https://chocolatey.org/content/packageimages/sql-server-express.13.1.4001.0.svg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>The Guest Additions are designed to be installed inside a virtual machine after the guest operating system has been installed. They consist of device drivers and system applications that optimize the guest operating system for better performance and usability.</description>
+    <description>Entry-level, free database that is ideal for deploying small databases in production environments. Build desktop and small server, data-driven applications up to 10 GB of disk size. Comes with Full text search, reporting services and tools.</description>
     <releaseNotes />
     <copyright>2016 Microsoft</copyright>
     <tags>sql server express admin 2016 SP1 advance advanced services tools</tags> 
