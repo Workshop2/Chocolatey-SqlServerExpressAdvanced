@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SqlServerExpressAdvanced</id>
+    <version>0.1</version>
+    <title>SQL Server Express 2016 SP1 with Advanced Services</title>
+    <authors>Microsoft</authors>
+    <owners>Workshop2</owners>
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
+    <projectUrl>http://github.com/workshop2/Chocolatey-SqlServerExpressAdvanced</projectUrl>
+	  <iconUrl>https://chocolatey.org/content/packageimages/sql-server-express.13.1.4001.0.svg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Guest Additions are designed to be installed inside a virtual machine after the guest operating system has been installed. They consist of device drivers and system applications that optimize the guest operating system for better performance and usability.</description>
+    <releaseNotes />
+    <copyright>2016 Microsoft</copyright>
+    <tags>sql server express admin 2016 SP1 advance advanced services tools</tags> 
+  </metadata>
+</package>
